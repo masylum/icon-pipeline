@@ -30,7 +30,6 @@
     "url": "https://github.com/DavidWells/icon-pipeline"
   },
   "dependencies": {
-    "brotli-size": "4.0.0",
     "chalk": "^5.3.0",
     "fs-extra": "^11.2.0",
     "gzip-size": "^7.0.0",
